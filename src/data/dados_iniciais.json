@@ -1,33 +1,29 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Programação",
+      "link": "https://www.alura.com.br/cursos-online-programacao",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Formações de Programação na Alura",
+        "url": "https://www.alura.com.br/formacoes"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Programar Mais Rápido e Ser Mais Produtivo no Visual Studio Code (VSCode)",
+          "url": "https://www.youtube.com/watch?v=FCC2GbStmfc"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "MELHOR FORMA DE APRENDER PYTHON (Google Colab Notebook)",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Xamarin.Forms: dicas para desenvolver interfaces incríveis",
+          "url": "https://www.youtube.com/watch?v=uv0Sq0hVTk4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Minicurso Blazor - Aplicação Blazor Server - Arquitetura",
+          "url": "https://www.youtube.com/watch?v=RJj2PHSL_YU"
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
@@ -36,66 +32,62 @@
         {
           "titulo": "Novidades do Angular v9",
           "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }       
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Finanças",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "B3 - Educação - Hub de Educação Financeira",
+        "url": "https://edu.b3.com.br/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "TESOURO DIRETO | ENTENDA COMO FUNCIONA",
+          "url": "https://www.youtube.com/watch?v=IhoLC2_05jI&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=2"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "RENDA FIXA | COMO E ONDE INVESTIR",
+          "url": "https://www.youtube.com/watch?v=sIYr7kahTtY&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=1"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "FUNDO DI | ENTENDA COMO FUNCIONA",
+          "url": "https://www.youtube.com/watch?v=mrT3SC_5TFM&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=3"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "CDB | ENTENDA COMO FUNCIONA",
+          "url": "https://www.youtube.com/watch?v=jdTzMjFelqQ&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "LCI e LCA | ENTENDA COMO FUNCIONA",
+          "url": "https://www.youtube.com/watch?v=17BYiFY6PZI&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=5"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Metodologia Ágil",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Formação Digital & Agile Thinking",
+        "url": "https://www.alura.com.br/formacao-digital-e-agile-thinking"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "O que são métodos ágeis? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=j5mCirZD-0s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "SCRUM - A arte de fazer o dobro do trabalho na metade do tempo | JEFF SUTHERLAND | Resumo do Livro",
+          "url": "https://www.youtube.com/watch?v=Oz15GwRK3_I"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Scrum ou Kanban na Metodologia Ágil?",
+          "url": "https://www.youtube.com/watch?v=wxW98xudntw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "XP's Values, Principles, and Practices - Georgia Tech - Software Development Process",
+          "url": "https://www.youtube.com/watch?v=C0WiUiznoUQ&list=PLCku-ULHIQvnWyghG0JnYbVQm35DvJi29&index=2"
         }
       ]
     },
@@ -104,20 +96,20 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Toy Story 4",
+          "url": "https://www.youtube.com/watch?v=76CslX-q5C4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "It Capítulo Dois",
+          "url": "https://www.youtube.com/watch?v=Zs0hLEHAoSs"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Vingadores - Guerra Infinita",
+          "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Vingadores: Ultimato",
+          "url": "https://www.youtube.com/watch?v=FWatWhfuCxs"
         }
       ]
     },
@@ -130,20 +122,20 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Shadow Of The Tomb Raider",
+          "url": "https://www.youtube.com/watch?v=XYtyeqVQnRI"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "FIFA 20 | Official Gameplay",
+          "url": "https://www.youtube.com/watch?v=vgQNOIhRsV4"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Call of Duty®: Warzone",
+          "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Counter-Strike: Global Offensive",
+          "url": "https://www.youtube.com/watch?v=edYCtaNueQY"
         },
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
@@ -152,33 +144,25 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Infraestrutura em Nuvem",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Formação AWS Certified Clooud Practiitoner",
+        "url": "https://www.alura.com.br/formacao-aws-certified-cloud-practitioner"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Cloud Computing (Computação em Nuvem) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=97l0Ahu2efE"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "How does Microsoft Azure work? (Como o Microsoft Azure Trabalha)",
+          "url": "https://www.youtube.com/watch?v=KXkBZCe699A"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
+          "titulo": "Introdução ao Google Cloud Platform",
+          "url": "https://www.youtube.com/watch?v=ezn9HUUVY8o"
+        } 
       ]
     }
   ]
