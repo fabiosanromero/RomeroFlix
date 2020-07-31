@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 import React, { useState } from 'react';
 import {Link} from 'react-router-dom'
 import PageDefault from '../../../components/PageDefault';
@@ -5,9 +6,9 @@ import FormField from '../../../components/FormField';
 
 function CadastroCategoria() {
     const valoresIniciais = {
-        nome:'',
-        descricao:'',
-        cor:'',
+        nome: '',
+        descricao: '',
+        cor: '',
     }
     const [categorias, setCategorias] = useState([]);
     const [values, setValues] = useState(valoresIniciais);
@@ -50,7 +51,7 @@ function CadastroCategoria() {
                 <FormField    
                     label="Descrição da Categoria"
                     type="text"
-                    name="descricao"                    
+                    name="descricao"
                     value={values.descricao}
                     onChange={handleChange}>
                 </FormField>
@@ -58,7 +59,7 @@ function CadastroCategoria() {
                 <FormField  
                     label="Cor"
                     type="color"
-                    name="cor"                    
+                    name="cor"
                     value={values.cor}
                     onChange={handleChange}>
                 </FormField>
