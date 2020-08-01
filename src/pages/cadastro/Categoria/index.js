@@ -30,7 +30,7 @@ function CadastroCategoria() {
 
     useEffect(() => {
       if (window.location.href.includes('localhost')) {
-        const URL = 'http://localhost:8080/categorias';
+        const URL = 'https://romeroflix.herokuapp.com/Categorias';
         fetch(URL)
          .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
@@ -90,8 +90,8 @@ function CadastroCategoria() {
         </form>
         <ul>
           {categorias.map((categoria) => (
-            <li key={`${categoria.nome}`}>
-              {categoria.nome}
+            <li key={`${categoria.id}`}>
+              {categoria.titulo}
             </li>
                     ))}
         </ul>
