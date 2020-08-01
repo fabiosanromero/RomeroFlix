@@ -1,0 +1,223 @@
+{
+  "categorias": [
+    {
+      "id":1,
+      "titulo": "Programação",
+      "link": "https://www.alura.com.br/cursos-online-programacao",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formações de Programação na Alura",
+        "url": "https://www.alura.com.br/formacoes"
+      }
+    },
+    {
+      "id":2,
+      "titulo": "Finanças",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "B3 - Educação - Hub de Educação Financeira",
+        "url": "https://edu.b3.com.br/"
+      }
+    },
+    {
+      "id":3,        
+      "titulo": "Metodologia Ágil",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Formação Digital & Agile Thinking",
+        "url": "https://www.alura.com.br/formacao-digital-e-agile-thinking"
+      }
+    },
+    {
+      "id":4,                
+      "titulo": "Infraestrutura em Nuvem",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Formação AWS Certified Clooud Practiitoner",
+        "url": "https://www.alura.com.br/formacao-aws-certified-cloud-practitioner"
+      }
+    },      
+    {
+      "id":5,        
+      "titulo": "Filmes",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Rotten Tomatoes - Classificação de Filmes",
+        "url": "https://www.rottentomatoes.com/"
+      }        
+    },
+    {
+      "id":6,                
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      }
+    }      
+  ],
+  "videos": [
+    {
+      "id":1,
+      "categoriaId":1,
+      "titulo": "Programar Mais Rápido e Ser Mais Produtivo no Visual Studio Code (VSCode)",
+      "url": "https://www.youtube.com/watch?v=FCC2GbStmfc"
+    },
+    {
+      "id":2,
+      "categoriaId":1,        
+      "titulo": "MELHOR FORMA DE APRENDER PYTHON (Google Colab Notebook)",
+      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+    },
+    {
+      "id":3,
+      "categoriaId":1,        
+      "titulo": "Xamarin.Forms: dicas para desenvolver interfaces incríveis",
+      "url": "https://www.youtube.com/watch?v=uv0Sq0hVTk4"
+    },
+    {
+      "id":4,
+      "categoriaId":1,        
+      "titulo": "Minicurso Blazor - Aplicação Blazor Server - Arquitetura",
+      "url": "https://www.youtube.com/watch?v=RJj2PHSL_YU"
+    },
+    {
+      "id":5,
+      "categoriaId":1,        
+      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+    },
+    {
+      "id":6,
+      "categoriaId":1,
+      "titulo": "Novidades do Angular v9",
+      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+    },
+    {
+      "id":7,
+      "categoriaId":2,
+      "titulo": "TESOURO DIRETO | ENTENDA COMO FUNCIONA",
+      "url": "https://www.youtube.com/watch?v=IhoLC2_05jI&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=2"
+    },
+    {
+      "id":8,
+      "categoriaId":2,        
+      "titulo": "RENDA FIXA | COMO E ONDE INVESTIR",
+      "url": "https://www.youtube.com/watch?v=sIYr7kahTtY&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=1"
+    },
+    {
+      "id":9,
+      "categoriaId":2,        
+      "titulo": "FUNDO DI | ENTENDA COMO FUNCIONA",
+      "url": "https://www.youtube.com/watch?v=mrT3SC_5TFM&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=3"
+    },
+    {
+      "id":10,
+      "categoriaId":2,        
+      "titulo": "CDB | ENTENDA COMO FUNCIONA",
+      "url": "https://www.youtube.com/watch?v=jdTzMjFelqQ&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=4"
+    }, 
+    {
+      "id":11,
+      "categoriaId":2,
+      "titulo": "LCI e LCA | ENTENDA COMO FUNCIONA",
+      "url": "https://www.youtube.com/watch?v=17BYiFY6PZI&list=PL-gaMRAth22rDsfu546fbGUmzfCpie3E9&index=5"
+    },
+    {
+      "id":12,
+      "categoriaId":3,        
+      "titulo": "O que são métodos ágeis? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=j5mCirZD-0s"
+    },
+    {
+      "id":13,
+      "categoriaId":3,                
+      "titulo": "SCRUM - A arte de fazer o dobro do trabalho na metade do tempo | JEFF SUTHERLAND | Resumo do Livro",
+      "url": "https://www.youtube.com/watch?v=Oz15GwRK3_I"
+    },
+    {
+      "id":14,
+      "categoriaId":3,                
+      "titulo": "Scrum ou Kanban na Metodologia Ágil?",
+      "url": "https://www.youtube.com/watch?v=wxW98xudntw"
+    },
+    {
+      "id":15,
+      "categoriaId":3,
+      "titulo": "XP's Values, Principles, and Practices - Georgia Tech - Software Development Process",
+      "url": "https://www.youtube.com/watch?v=C0WiUiznoUQ&list=PLCku-ULHIQvnWyghG0JnYbVQm35DvJi29&index=2"
+    },      
+    {
+      "id":16,
+      "categoriaId":4,
+      "titulo": "Cloud Computing (Computação em Nuvem) // Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=97l0Ahu2efE"
+    },
+    {
+      "id":17,
+      "categoriaId":4,      
+      "titulo": "How does Microsoft Azure work? (Como o Microsoft Azure Trabalha)",
+      "url": "https://www.youtube.com/watch?v=KXkBZCe699A"
+    },
+    {
+      "id":18,
+      "categoriaId":4,      
+      "titulo": "Introdução ao Google Cloud Platform",
+      "url": "https://www.youtube.com/watch?v=ezn9HUUVY8o"
+    },
+    {
+      "id":19,
+      "categoriaId":5,                        
+      "titulo": "Toy Story 4",
+      "url": "https://www.youtube.com/watch?v=76CslX-q5C4"
+    },
+    {
+      "id":20,
+      "categoriaId":5,                                
+      "titulo": "It Capítulo Dois",
+      "url": "https://www.youtube.com/watch?v=Zs0hLEHAoSs"
+    },
+    {
+      "id":21,
+      "categoriaId":5,                                
+      "titulo": "Vingadores - Guerra Infinita",
+      "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
+    },
+    {
+      "id":22,
+      "categoriaId":5,                                
+      "titulo": "Vingadores: Ultimato",
+      "url": "https://www.youtube.com/watch?v=FWatWhfuCxs"
+    },
+    {
+      "id":23,
+      "categoriaId":6,
+      "titulo": "Shadow Of The Tomb Raider",
+      "url": "https://www.youtube.com/watch?v=XYtyeqVQnRI"
+    },
+    {
+      "id":24,
+      "categoriaId":6,        
+      "titulo": "FIFA 20 | Official Gameplay",
+      "url": "https://www.youtube.com/watch?v=vgQNOIhRsV4"
+    },
+    {
+      "id":25,
+      "categoriaId":6,        
+      "titulo": "Call of Duty®: Warzone",
+      "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+    },
+    {
+      "id":26,
+      "categoriaId":6,        
+      "titulo": "Counter-Strike: Global Offensive",
+      "url": "https://www.youtube.com/watch?v=edYCtaNueQY"
+    },
+    {
+      "id":27,
+      "categoriaId":6,        
+      "titulo": "Pokémon Let's Go Pikachu/Eevee",
+      "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+    }      
+  ]
+}
