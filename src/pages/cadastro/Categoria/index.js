@@ -29,8 +29,9 @@ function CadastroCategoria() {
     }
 
     useEffect(() => {
-      if (window.location.href.includes('localhost')) {
-        const URL = 'https://romeroflix.herokuapp.com/Categorias';
+        const URL = window.location.hostname.includes('localhost')
+         ? 'http://localhost:8080/Categorias'
+         : 'https://romeroflix.herokuapp.com/Categorias';
         fetch(URL)
          .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
@@ -40,7 +41,6 @@ function CadastroCategoria() {
           }
           throw new Error('Não foi possível pegar os dados');
          });
-        }
     }, []);
 
     return (
