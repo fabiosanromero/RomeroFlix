@@ -1,20 +1,26 @@
 import config from '../config';
 
-const URL_CATEGORIES = `${config.URL_BACKEND_TOP}/categorias`;
+const URL_VIDEOS = `${config.URL_BACKEND_TOP}/videos`;
 
-function getAllWithVideos() {
-  return fetch(`${URL_CATEGORIES}?_embed=videos`)
+function create(objectDoVideo) {
+  return fetch(`${URL_VIDEOS}`, {
+    method: 'POST',
+    headers: {
+      'Content-type': 'application/json',
+    },
+    body: JSON.stringify(objectDoVideo),
+  })
     .then(async (respostaDoServer) => {
       if (respostaDoServer.ok) {
         const resposta = await respostaDoServer.json();
         return resposta;
       }
-      throw new Error('Não foi possível pegar os dados');
+      throw new Error('Não foi possível cadastrar os dados');
     });
 }
 
-function getAll() {
-  return fetch(`${URL_CATEGORIES}?_embed=videos`)
+function getAllWithVideos() {
+  return fetch(`${URL_VIDEOS}`)
     .then(async (respostaDoServer) => {
       if (respostaDoServer.ok) {
         const resposta = await respostaDoServer.json();
@@ -25,5 +31,5 @@ function getAll() {
 }
 
 export default {
-  getAllWithVideos, getAll,
+  getAllWithVideos, create,
 };
